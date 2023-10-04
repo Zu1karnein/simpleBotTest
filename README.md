@@ -1,2 +1,2 @@
-# simpleBotTest
+# simpleBotTestAiogram
 for test Inline buttons
